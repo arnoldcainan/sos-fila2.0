@@ -37,7 +37,7 @@ export default function App() {
       <Button style={styles.button} 
         title="ENTRAR"
                
-        onPress={() => console.log('ENTROU')}
+        onPress={() => console.log('Click em botao')}
       />
       <Text style={styles.text}> Não tem uma conta? Cadastre-se </Text>
       <Text style={styles.text}> Modo anônimo </Text>
